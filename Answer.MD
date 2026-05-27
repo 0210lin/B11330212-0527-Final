@@ -129,10 +129,9 @@ borrowed: 1
 
 
 ```log
-a1b2c3d 新增 Library 類別，實現基本功能
-d4e5f6g 新增 JSON 格式支援，替代原本的 txt 格式
-h7i8j9k 新增錯誤處理，避免檔案不存在或格式錯誤導致崩潰
-i9j8k7l 重構程式碼，移除全域變數，封裝邏輯到類別中
+8f3a1bc 完成期末作業最終版本
+5d2c9aa 修正 borrow 功能
+2ab73fd 新增 JSON 儲存功能
 ```
 
 ### 4.2. GitHub Repository 連結(此小題7分)
