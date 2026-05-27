@@ -129,9 +129,9 @@ borrowed: 1
 
 
 ```log
-8f3a1bc 完成期末作業最終版本
-5d2c9aa 修正 borrow 功能
-2ab73fd 新增 JSON 儲存功能
+94ef542 final version
+9e7a8d3 更新內容
+b67d863 新增 Library 類別，實現基本功能
 ```
 
 ### 4.2. GitHub Repository 連結(此小題7分)
